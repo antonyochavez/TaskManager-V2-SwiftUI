@@ -5,17 +5,13 @@
 
 **Por favor, haga clic en la imagen de abajo para ampliar.**
 
-<img src="https://github.com/antonyochavez/
-TaskManager-V2-SwiftUI/blob/main/Screenshots/Screenshot_1.png" height="600" width="300" hspace="40">
+<img src="https://github.com/antonyochavez/TaskManager-V2-SwiftUI/blob/main/Screenshots/Screenshot_1.png" height="600" width="300" hspace="40">
 <br/>
-<img src="https://github.com/antonyochavez/
-TaskManager-V2-SwiftUI/blob/main/Screenshots/Screenshot_2.png" height="600" width="300" hspace="40">
+<img src="https://github.com/antonyochavez/TaskManager-V2-SwiftUI/blob/main/Screenshots/Screenshot_2.png" height="600" width="300" hspace="40">
 <br/>
-<img src="https://github.com/antonyochavez/
-TaskManager-V2-SwiftUI/blob/main/Screenshots/Screenshot_3.png" height="600" width="300" hspace="40">
+<img src="https://github.com/antonyochavez/TaskManager-V2-SwiftUI/blob/main/Screenshots/Screenshot_3.png" height="600" width="300" hspace="40">
 <br/>
-<img src="https://github.com/antonyochavez/
-TaskManager-V2-SwiftUI/blob/main/Screenshots/Screenshot_4.png" height="600" width="300" hspace="40">
+<img src="https://github.com/antonyochavez/TaskManager-V2-SwiftUI/blob/main/Screenshots/Screenshot_4.png" height="600" width="300" hspace="40">
 
 ## Contributing
 
